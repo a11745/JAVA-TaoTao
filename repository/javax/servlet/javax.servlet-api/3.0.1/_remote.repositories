@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 16 14:43:46 CST 2018
+javax.servlet-api-3.0.1-sources.jar>central=
+javax.servlet-api-3.0.1.jar>central=
+javax.servlet-api-3.0.1.pom>central=

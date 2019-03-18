@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 16 23:00:33 CST 2018
+standard-1.1.2.jar>central=
+standard-1.1.2-sources.jar>central=
+standard-1.1.2.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 14 14:35:09 CST 2018
+druid-1.0.14-sources.jar>central=
+druid-1.0.14.jar>central=
+druid-1.0.14.pom>central=
